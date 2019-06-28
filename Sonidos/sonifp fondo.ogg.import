@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sonifp fondo.ogg-40b5f84b22478c711f143d2b2c96f0e6.oggstr"
+
+[deps]
+
+source_file="res://Sonidos/sonifp fondo.ogg"
+dest_files=[ "res://.import/sonifp fondo.ogg-40b5f84b22478c711f143d2b2c96f0e6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
